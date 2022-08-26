@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+
+.media-picture{
+    height: 400px;
+    background-image: url(../img/tde.jpg);
+}
+
+.review-score{
+    background-color: #e6bd09;
+    padding: 12px;
+}
+
+body{
+    background-color: #131313;
+}
+
+h1{
+    font-family: 'Roboto', sans-serif;
+    color: white;
+}
+
+h2{
+    color: steelblue;
+}
+
+p{
+    color: #bdbdbd;
+    font-family: 'Roboto', sans-serif;
+}
+
+a{
+    color: yellow;
+}
