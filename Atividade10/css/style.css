@@ -56,11 +56,11 @@ main{
 }
 
 .batman{
-    background-image: url(/img/bg-batman.png);
+    background-image: url(../img/bg-batman.png);
 }
 
 .arlequina{
-    background-image: url(/img/bg-arlequina.png);
+    background-image: url(../img/bg-arlequina.png);
 }
 
 .hero-img{

@@ -92,7 +92,7 @@ color: #3c2313;
 .home-container {
 width: 100%;
 height: 409px;
-background-image: url('/img/pote.png');
+background-image: url('../img/pote.png');
 background-size: cover;
 background-repeat: no-repeat;
 background-position: center;

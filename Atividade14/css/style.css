@@ -52,22 +52,23 @@ main{
     position: relative;
     width: 23.4rem;
     height: 13.6rem;
+    border-radius: 10px;
 }
 
 .batman{
-    background-image: url(/img/bg-batman.png);
+    background-image: url(../img/bg-batman.png);
 }
 
 .ww{
-    background-image: url(/img/bg-ww.png);
+    background-image: url(../img/bg-ww.png);
 }
 
 .superman{
-    background-image: url(/img/bg-superman.png);
+    background-image: url(../img/bg-superman.png);
 }
 
 .arlequina{
-    background-image: url(/img/bg-arlequina.png);
+    background-image: url(../img/bg-arlequina.png);
 }
 
 .hero-img{
